@@ -1,0 +1,2 @@
+Trate de ejemplificar lo que se podria realizar, y mostrar mi proceso de trabajo, si bien las funcionalidades no estan activas, espero que quede esplayado como es el proceso de mi desarrollo.
+Sin mas espero encuentren cualquier error y me lo hagan saber, ya que es la unica forma de mejorar.
